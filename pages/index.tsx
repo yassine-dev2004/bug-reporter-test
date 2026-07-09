@@ -84,8 +84,11 @@ export default function Home() {
           }}>
             OmegleCams
           </h1>
-          <p style={{ color: '#71717a', fontSize: '1.1rem', letterSpacing: '0.1em', textTransform: 'uppercase' }}>
+          <p style={{ color: '#71717a', fontSize: '1.1rem', letterSpacing: '0.1em', textTransform: 'uppercase', marginBottom: 4 }}>
             Talk to Strangers!
+          </p>
+          <p style={{ color: '#52525b', fontSize: '0.85rem', fontWeight: 500, marginTop: 4 }}>
+            Made by yassine MZ a Tunisian developer
           </p>
         </div>
 
